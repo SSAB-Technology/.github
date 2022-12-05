@@ -11,6 +11,6 @@
 
 ## APIs
 
-* ListaFirme API - REST API for [ListaFirme.ro](https://listafirme.ro) public data 
-  - [Documentation](https://api.ssab.tools)
+* [ListaFirme API](https://api.ssab.tools) - REST API for [ListaFirme.ro](https://listafirme.ro) public data
+* [Upload Files API (private)](https://upload.ssab.tools) - File Upload REST API for a CS:GO server
 
