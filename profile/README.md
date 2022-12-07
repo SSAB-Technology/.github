@@ -14,3 +14,7 @@
 * [ListaFirme API](https://api.ssab.tools) - REST API for [ListaFirme.ro](https://listafirme.ro) public data
 * [Upload Files API (private)](https://upload.ssab.tools) - File Upload REST API for a CS:GO server
 
+## Projects
+
+* [sampisti.ro](https://sampisti.ro) - Gaming community
+* [samp.ist](https://samp.ist) - URL Shortener and Biolinks
