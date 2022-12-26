@@ -16,6 +16,6 @@
 
 ## Projects
 
-* [ssab.tools](https://ssab.tools) - REST API Tools for different platforms
+* [ssab.tools](https://ssab.tools) - REST API Tools for different platforms (iAPI)
 * [sampisti.ro](https://sampisti.ro) - Gaming community
 * [samp.ist](https://samp.ist) - URL Shortener and Biolinks
