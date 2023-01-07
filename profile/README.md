@@ -11,7 +11,7 @@
 
 ## APIs
 
-* [iAPI](https://api.ssab.tools) - Tools for [spotify.com](https://spotify.com), public data from [ListaFirme.ro](https://listafirme.ro) in JSON format
+* [iAPI](https://api.ssab.tools) - Tools for [spotify.com](https://spotify.com), [discord.com](https://discord.com)
 * [Upload Files API (private)](https://upload.ssab.tools) - File Upload REST API for a CS:GO server
 
 ## Projects
