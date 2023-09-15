@@ -7,7 +7,7 @@
   <br>
 </h1>
 
-<h4 align="center">First you learn then you remove the “L”</h4>
+<h4 align="center">First you learn, then you remove the "L".</h4>
 
 ## APIs
 
